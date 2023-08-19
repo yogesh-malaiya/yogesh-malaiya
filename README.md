@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm YOGESH MALAIYA</h1>
-<h3 align="center">A passionate website developer from India</h3>
+<h3 align="center">A passionate computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-malaiya&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-malaiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-malaiya" alt="yogesh-malaiya" /></a> </p>
 
-- 🔭 I’m currently working on [employees management system](https://github.com/yogesh-malaiya/collegeproject.git)
+- 🔭 I’m currently working on self
 
-- 🌱 I’m currently learning **java servlet jsp and jdbms**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,WEBSCRAPING**
 
-- 👯 I’m looking to collaborate on [generator-jhipster](https://github.com/jhipster/generator-jhipster.git)
+- 👯 I’m looking to collaborate on **HAVEN'T-FIGURED-IT-OUT-YET**
 
-- 💬 Ask me about **nodejs, html,css and java**
+- 💬 Ask me about **ME**
 
 - 📫 How to reach me **yogeshmalaiya2@gmail.com**
 
